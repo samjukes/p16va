@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    background-color: gold;
+    padding: 5px;
+}
+
+#menu {
+    background-color: lightseagreen;
+}
+
+#chart {
+    background-color: mediumvioletred;
+}
